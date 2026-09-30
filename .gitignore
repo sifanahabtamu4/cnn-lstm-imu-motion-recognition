@@ -1,0 +1,20 @@
+# Data — participant recordings, not redistributable
+data/
+*.csv
+
+# Saved models / checkpoints
+*.h5
+*.keras
+checkpoints/
+
+# Python
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+venv/
+.venv/
+env/
+
+# OS
+.DS_Store
+Thumbs.d
